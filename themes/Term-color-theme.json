@@ -53,7 +53,13 @@
     "activityBar.background": "#272c34",
     "activityBar.foreground": "#b5b4d9",
     "statusBar.background": "#1e2126",
-    "statusBar.foreground": "#b5b4d9"
+    "statusBar.foreground": "#b5b4d9",
+    "editorSuggestWidget.background": "#272c34",
+    "editorSuggestWidget.foreground": "#b5b4d9",
+    "editorSuggestWidget.border": "#49515f",
+    "editorSuggestWidget.highlightForeground": "#689DC0",
+    "editorSuggestWidget.selectedBackground": "#49515f",
+    "editorSuggestWidget.selectedForeground": "#b5b4d9"
   },
   "tokenColors": [
     {
