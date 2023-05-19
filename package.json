@@ -3,8 +3,12 @@
   "displayName": "vscode-term-theme",
   "description": "A theme",
   "version": "0.0.1",
+  "publisher": "distek",
+  "repository": {
+    "url": "https://github.com/distek/vscode-theme-term"
+  },
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
