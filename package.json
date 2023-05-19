@@ -1,0 +1,21 @@
+{
+  "name": "vscode-term-theme",
+  "displayName": "vscode-term-theme",
+  "description": "A theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Term",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Term-color-theme.json"
+      }
+    ]
+  }
+}
