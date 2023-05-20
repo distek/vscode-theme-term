@@ -54,6 +54,8 @@
     "activityBar.foreground": "#b5b4d9",
     "statusBar.background": "#1e2126",
     "statusBar.foreground": "#b5b4d9",
+    "statusBar.noFolderBackground": "#1e2126",
+    "statusBar.noFolderForeground": "#b5b4d9",
     "editorSuggestWidget.background": "#272c34",
     "editorSuggestWidget.foreground": "#b5b4d9",
     "editorSuggestWidget.border": "#49515f",
